@@ -1,0 +1,20 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a simple node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "Mohammed Kofil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  }
+}
